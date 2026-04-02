@@ -4,6 +4,8 @@ A Claude Code skill that converts Figma frames into pixel-perfect code through a
 
 Point Loupe at a Figma frame and it decomposes it into sections, extracts layout and design tokens, generates code using your design system components, reviews its own output for accuracy, and consolidates everything into reusable project-level vocabulary files.
 
+<img width="1348" height="538" alt="image" src="https://github.com/user-attachments/assets/9ac635b3-55e1-44ca-b497-d468fd0a82f0" />
+
 ## How it works
 
 ```
